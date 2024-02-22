@@ -6,7 +6,7 @@
 
 Inspired by the human brain, Artificial Neural Networks (ANNs) are a type of computer vision model designed to classify images into specific categories. For the purpose of this project, we're focusing on ANNs that recognize handwritten digits (ranging from 0 to 9) from black-and-white images with a resolution of 28x28 pixels.
 
-The core objective is to not only compute an ANN output for a given input but also to develop functions that "attack" the ANN. These attacks aim to generate inputs that can deceive the neural network into making incorrect classifications.
+The core objective of this project is to not only compute an ANN output for a given input but also to develop functions that "attack" the ANN. These attacks aim to generate inputs that can deceive the neural network into making incorrect classifications.
 
 ## Main Functions
 
